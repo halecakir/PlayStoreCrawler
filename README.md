@@ -22,12 +22,14 @@ $ pip3 install -r requirements.txt
 Crawl featured apps from Play Store.
 
 ```sh
+$ cd android_market/
 $ scrapy crawl featured-apps-spider -o ../data/featured_apps.csv --set JOBDIR=crawl
 ```
 
 Below script extracts detailed app information, then repeats this process for each of its similar apps. This script requires inital app list. You can prepare initial app list with ```featured-apps-spider```.
 
 ```sh
+$ cd android_market/
 $ scrapy crawl similar-apps-spider -o ../data/apps.csv --set JOBDIR=crawl_similar
 ```
 
