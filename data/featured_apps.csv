@@ -1,0 +1,585 @@
+app_id,category_short,category_long
+com.traplight.battleslides,Simulation,/store/apps/category/GAME_SIMULATION
+com.devplank.masterplaca,Auto & Vehicles,/store/apps/category/AUTO_AND_VEHICLES
+org.drivingprep.cdl,Auto & Vehicles,/store/apps/category/AUTO_AND_VEHICLES
+de.appomotive.bimmercode,Auto & Vehicles,/store/apps/category/AUTO_AND_VEHICLES
+com.iViNi.VWhatFull,Auto & Vehicles,/store/apps/category/AUTO_AND_VEHICLES
+ro.carzz,Auto & Vehicles,/store/apps/category/AUTO_AND_VEHICLES
+com.johnboysoftware.jbv1,Auto & Vehicles,/store/apps/category/AUTO_AND_VEHICLES
+com.samsung.knox.securefolder,Business,/store/apps/category/BUSINESS
+com.lacoon.security.fox,Business,/store/apps/category/BUSINESS
+com.zoho.creator.a,Business,/store/apps/category/BUSINESS
+com.andrdevelopers.world_currency_convertor,Business,/store/apps/category/BUSINESS
+com.bookkeeper,Business,/store/apps/category/BUSINESS
+sABN.UI.SmartABNAndroid,Business,/store/apps/category/BUSINESS
+com.nightowl.connect,Business,/store/apps/category/BUSINESS
+com.era.calcbill,Business,/store/apps/category/BUSINESS
+com.danfoss.koolcode2,Business,/store/apps/category/BUSINESS
+jp.sugarcorp.sugar,Entertainment,/store/apps/category/ENTERTAINMENT
+lu.immotop.android,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.code.bluegeny.myhomeview,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.pepper.momentum,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.lockly.smartlock,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.thanksmister.iot.mqtt.alarmpanel,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.neosmartblinds.app,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.keyboardcrumbs.haclient,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.allegion.leopard,House & Home,/store/apps/category/HOUSE_AND_HOME
+es.cecotec.s5090,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.quby.apps.hybrid,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.nightowlsp.nop,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.hunter.hunterWifiConnectAndroid,House & Home,/store/apps/category/HOUSE_AND_HOME
+sesam.technology.bold,House & Home,/store/apps/category/HOUSE_AND_HOME
+co.abetterhome.lighter,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.ensto.heatcontrol,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.altec.shsm,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.hero.iot,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.plejd.plejdapp,House & Home,/store/apps/category/HOUSE_AND_HOME
+sputnik.axmor.com,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.easysmarthome.cloudmaticapp,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.bwt.athomeapp,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.imsmart.devices,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.lumilifev2,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.hiper.smartiot,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.ooma.hm,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.elvox.videodoorip,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.klevio.klevio,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.lumiunited.aqarahome,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.home.shelly,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.pro1.thermostat,House & Home,/store/apps/category/HOUSE_AND_HOME
+app.homehabit.view,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.daikincomfort.daikinonehome,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.myeglu.android,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.thanksmister.iot.wallpanel,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.wuuklabs.android.store,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.ismartgate.app,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.orvibo.homemate,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.yosmart.yolink,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.thhkstudio.hassdash,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.epicamera.vms.i_neighbour,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.logitech.circle,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.digma.smart,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.hyyp247.home,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.smartfrog.app,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.nedis.smartlife,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.ring.answer,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.connect.smarthome,House & Home,/store/apps/category/HOUSE_AND_HOME
+io.olibra.bondapp,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.philips.hueswitcher.quickstart,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.bdrthermea.roomunitapplication.baxi,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.fibaro.homecenter,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.kelement.smart,House & Home,/store/apps/category/HOUSE_AND_HOME
+eu.hoermann.ast.bluesecur,House & Home,/store/apps/category/HOUSE_AND_HOME
+app.homey,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.stickmanmobile.engineroom.heatmiserneo,House & Home,/store/apps/category/HOUSE_AND_HOME
+uk.co.neos.retail.android,House & Home,/store/apps/category/HOUSE_AND_HOME
+global.nature.remo,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.kogan.smarterhome,House & Home,/store/apps/category/HOUSE_AND_HOME
+cz.o2.smartbox,House & Home,/store/apps/category/HOUSE_AND_HOME
+io.homeassistant.companion.android,House & Home,/store/apps/category/HOUSE_AND_HOME
+tr.com.isipark.ht400e.android,House & Home,/store/apps/category/HOUSE_AND_HOME
+de.ebertp.HomeDroid,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.mirabella.genio,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.desygner.menus,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+kz.chocofood.chocofoodapp,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+com.sodexo.mysodexo,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+com.warden.cam,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.urbanclap.urbanclap,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.app.makano,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+de.pizza,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+com.nextwo.the_chefz,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+com.eatkareem.eatmubarak,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+co.za.nandos.nandosapp,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+tw.co.akindo_sushiro.sushiroapp,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+com.sms.hotdog.maker.games,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+mk.restaurant,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+de.lieferservice.android,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+com.dennys.mobile,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+com.minor.pizzacompany,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+it.delonghi,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+in.emego.www.emego,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+com.loyaltyplant.partner.sevenleavescafe,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+ru.sbcs.prodom,House & Home,/store/apps/category/HOUSE_AND_HOME
+jamhome.ru.lktsj,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.inpin,House & Home,/store/apps/category/HOUSE_AND_HOME
+ru.pik.mobile,House & Home,/store/apps/category/HOUSE_AND_HOME
+hk.com.squarefoot.app,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.kilid.portal,House & Home,/store/apps/category/HOUSE_AND_HOME
+ru.mlsn.realty,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.kadilo.inc.flatty,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.buildium.resident.android,House & Home,/store/apps/category/HOUSE_AND_HOME
+br.com.quintoandar.inquilinos,House & Home,/store/apps/category/HOUSE_AND_HOME
+apiqa.ru.residentcabinetandroid,House & Home,/store/apps/category/HOUSE_AND_HOME
+se.bostadsdeal.app,House & Home,/store/apps/category/HOUSE_AND_HOME
+kr.co.station3.dabang.pro,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.airthings.airthings,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.nestoria.property,House & Home,/store/apps/category/HOUSE_AND_HOME
+syncteq.propertycalculatormalaysia,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.bayut.bayutapp,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.opendoor.buyerapp,House & Home,/store/apps/category/HOUSE_AND_HOME
+ch.homegate.mobile,House & Home,/store/apps/category/HOUSE_AND_HOME
+muggle.android.gobang,House & Home,/store/apps/category/HOUSE_AND_HOME
+ae.propertyfinder.propertyfinder,House & Home,/store/apps/category/HOUSE_AND_HOME
+cz.bezrealitky,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.speedrent,House & Home,/store/apps/category/HOUSE_AND_HOME
+dk.boligsiden,House & Home,/store/apps/category/HOUSE_AND_HOME
+my.ecommunity.apps,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.thinkermobile.sinyi,House & Home,/store/apps/category/HOUSE_AND_HOME
+co.ninetynine.android,House & Home,/store/apps/category/HOUSE_AND_HOME
+au.com.allhomes,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.nifty.myhome.buy,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.zoonckan.android,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.reiwa.app,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.compass.compass,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.allproperty.android.consumer.my,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.spotahome.tnnt,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.ziptoss.v2,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.engelvoelkers.propertysearch,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.shopgate.android.app20123,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+com.coffee.love_coffee,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+com.notissimus.ammir.android,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+com.baronbrew.tilthydrometerf7,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+in.hipbar.hipbar_pay_app,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+com.paymentez.jv_amigos,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+com.morepiva,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+io.appery.project320490,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+com.cofedistrict,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+com.spoonity.cafemartinez2,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+com.wunderbar_app,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+com.mozaic.www.alameedcoffee,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+com.cavagrill.cavagrill.android.app,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+com.cfdrink,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+com.cellartracker.app,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+com.brewdog.hopdrop,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+com.jimmybrings,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+com.digitalpour.menu,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+com.dalkomm.beatorder,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+com.nexstream.gigiCoffee,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+com.cafejavas,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+com.shakeandstraincocktails,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+com.ratebeer,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+com.joejuice.joeloyalty,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+digital.raisin,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+com.lamotte.brewingwateradjustment,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+com.winesearcher,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+appcent.mobi.waterboyandroid,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+ru.bartello.app,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+com.przemyslawbobak.filtrucoffee,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+uk.co.u24,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+com.thehumanbean.thehumanbean.android.app,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+at.co.babos.beertasting,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+se.leeroygroup.waynescoffee,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+com.kopikenangan,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+com.thecoffeehouse.guestapp,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+de.atino.melitta.connect,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+com.hachette.ghv,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+com.apptivity.brewtimer,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+ca.craver.rookcoffee,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+com.warpkode.brewfather,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+com.iesa.tuComunidadVecinos,House & Home,/store/apps/category/HOUSE_AND_HOME
+jp.goodrooms.goodroom_android,House & Home,/store/apps/category/HOUSE_AND_HOME
+net.daum.realestate,House & Home,/store/apps/category/HOUSE_AND_HOME
+nl.intoapps.jaap,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.boliga.boliga,House & Home,/store/apps/category/HOUSE_AND_HOME
+me.aftergrowth.disco,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.sanags.a4f3client,House & Home,/store/apps/category/HOUSE_AND_HOME
+ch.flatfox.android,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.realmaster,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.urbanindo.android,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.iproperty.android.search,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.nifty.myhome.rent,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.housefun.buyapp,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.allproperty.android.consumer.sg,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.mediawill.land,House & Home,/store/apps/category/HOUSE_AND_HOME
+kr.co.kba,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.house730.app,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.har.androidapp,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.tweglobal.ar19crimes,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+com.starbucks.tr,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+air.com.vinipad.android,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+com.tropicalsmoothie.tropicalsmoothiecafe.android.app,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+com.zack.shop,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+com.mad.cbl,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+com.guru.cocktails,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+au.com.bws,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+com.meowstudios.coffeejuicesoda1,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+com.ionicframework.gbgionic299560,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+com.gogoalsoft.pacificcoffee,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+com.youngsontap,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+org.contentarcade.apps.milkShake,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+com.hamidiyeapp,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+org.contentarcade.apps.coffee,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+com.endless.smoothierecipes,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+com.project.kiranchavan.detoxfree,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+com.kahvedunyasi.app,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+com.kiransmoothie.kiranchavan.juicerecipe,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+com.bicaysoyle,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+com.mbreviews.com,Entertainment,/store/apps/category/ENTERTAINMENT
+com.home.entertainment.gossip,Entertainment,/store/apps/category/ENTERTAINMENT
+com.cllive,Entertainment,/store/apps/category/ENTERTAINMENT
+rthk.mine,Entertainment,/store/apps/category/ENTERTAINMENT
+com.halooglasi,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.kbstar.kbland,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.activebuilding.residents,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.homes.homesdotcom,House & Home,/store/apps/category/HOUSE_AND_HOME
+able.bukken.search,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.zibnawaapp.zibnawa,House & Home,/store/apps/category/HOUSE_AND_HOME
+jp.co.athome,House & Home,/store/apps/category/HOUSE_AND_HOME
+cz.ulikeit.reality,House & Home,/store/apps/category/HOUSE_AND_HOME
+ch.immoscout24.ImmoScout24,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.move.rentals,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.auctionmsg.app,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.rumah123,House & Home,/store/apps/category/HOUSE_AND_HOME
+gr.spitogatos.android,House & Home,/store/apps/category/HOUSE_AND_HOME
+se.hemnet.android,House & Home,/store/apps/category/HOUSE_AND_HOME
+ecowork.housefun,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.hse28.hse28_2,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.ddangya.app,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.ire.tenantapp,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.zingat.emlak,House & Home,/store/apps/category/HOUSE_AND_HOME
+au.com.realestate.app,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.addcn.android.hk591new,House & Home,/store/apps/category/HOUSE_AND_HOME
+kr.co.namanapp.leasehouse,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.homesnap,House & Home,/store/apps/category/HOUSE_AND_HOME
+ca.crea.realtor,House & Home,/store/apps/category/HOUSE_AND_HOME
+app.orwi.orwi,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+com.wowprimeapp.app,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+com.primeiramesa2,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+br.com.chefsclub.app,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+com.joe.ricepon,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+au.com.liven.android,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+pl.m4x.sphinx_customer_android_mobile_app_v2,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+com.mem.MacaoLife,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+com.appcapsule.atom,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+co.uk.aplacecalledcommon.iorder,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+ch.lunchcheck.android,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+crave.android.customer,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+com.r3mobi.starsystem,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+dinnerdeal.android.customer,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+com.scrambledeggs.booky,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+nl.socialdeal.spontaan,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+asia.diningcity.android,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+com.pauza.hr,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+jp.co.burgerkingjapan,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+com.hanamaruudon.official,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+hu.nemzetikozmuvek.ufsz,Business,/store/apps/category/BUSINESS
+com.aboitizceh,Business,/store/apps/category/BUSINESS
+com.coned.conedison,Business,/store/apps/category/BUSINESS
+gt4.aluminium,Business,/store/apps/category/BUSINESS
+com.epocket.handyman.ui,Business,/store/apps/category/BUSINESS
+com.lightlink.tileswaleApp,Business,/store/apps/category/BUSINESS
+wcs.com.edfdemasz,Business,/store/apps/category/BUSINESS
+gr.wattvolt.mywatt,Business,/store/apps/category/BUSINESS
+co.nz.contactenergy,Business,/store/apps/category/BUSINESS
+de.geberit.proapp,Business,/store/apps/category/BUSINESS
+com.egger.vdsmobileapp,Business,/store/apps/category/BUSINESS
+com.gsgroup.handyman,Business,/store/apps/category/BUSINESS
+com.apspdcl.consumerapp,Business,/store/apps/category/BUSINESS
+com.utilitywarehouse.clubhouse,Business,/store/apps/category/BUSINESS
+net.JDECo.JDECoCApp,Business,/store/apps/category/BUSINESS
+au.com.realcommercial.app,Business,/store/apps/category/BUSINESS
+com.justmop.partner,Business,/store/apps/category/BUSINESS
+ekapp.ekomplet.dk,Business,/store/apps/category/BUSINESS
+com.vipera.dynamicengine,Business,/store/apps/category/BUSINESS
+com.bi.JEPCO,Business,/store/apps/category/BUSINESS
+com.apepdcl.consumerapp,Business,/store/apps/category/BUSINESS
+com.dehon.climalife.fgassolution,Business,/store/apps/category/BUSINESS
+fr.grdf.prosdugaz,Business,/store/apps/category/BUSINESS
+com.airselangor.cris.mobile,Business,/store/apps/category/BUSINESS
+de.brillux.brilluxapp,Business,/store/apps/category/BUSINESS
+com.nee.fpl,Business,/store/apps/category/BUSINESS
+com.mobile.kseb,Business,/store/apps/category/BUSINESS
+com.blogspot.turbocolor.winstudio,Business,/store/apps/category/BUSINESS
+com.idbsys.mobile,Business,/store/apps/category/BUSINESS
+ke.co.kplc.incms.ss,Business,/store/apps/category/BUSINESS
+com.cspdcl.cspdcl_consumer,Business,/store/apps/category/BUSINESS
+com.sync.energisa,Business,/store/apps/category/BUSINESS
+hu.elmu.eservice,Business,/store/apps/category/BUSINESS
+com.dteenergy.insight,Business,/store/apps/category/BUSINESS
+com.frizbiz,Business,/store/apps/category/BUSINESS
+com.fanpowerapp.mobile,Entertainment,/store/apps/category/ENTERTAINMENT
+smtown.wyth.com,Entertainment,/store/apps/category/ENTERTAINMENT
+tv.vhx.worldofwonder,Entertainment,/store/apps/category/ENTERTAINMENT
+korean.kpop.idols.bias.birthday.reminder.countdown.freeapp,Entertainment,/store/apps/category/ENTERTAINMENT
+skoften.android.app,Entertainment,/store/apps/category/ENTERTAINMENT
+escapemusic.android.a264,Entertainment,/store/apps/category/ENTERTAINMENT
+com.square.thekking,Entertainment,/store/apps/category/ENTERTAINMENT
+pl.polkomtel.plusfun,Entertainment,/store/apps/category/ENTERTAINMENT
+in.til.popkorn,Entertainment,/store/apps/category/ENTERTAINMENT
+com.nwt.padamyarfm,Entertainment,/store/apps/category/ENTERTAINMENT
+net.instiz.www.instiz,Entertainment,/store/apps/category/ENTERTAINMENT
+arabic.news2,Entertainment,/store/apps/category/ENTERTAINMENT
+com.smtown.smtown.androidapp,Entertainment,/store/apps/category/ENTERTAINMENT
+com.btslightstick.colorful.armylingting,Entertainment,/store/apps/category/ENTERTAINMENT
+com.craft.android.woodwork,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.kfc_hu,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+com.axiomc.stickandwin,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+com.foodhiveph.app,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+com.coolclever.app,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+cy.com.alphamega.loyalty,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+com.perek.clientdeliveryapp_perek,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+sa.com.se.alkahraba,Business,/store/apps/category/BUSINESS
+com.enerjisa.perakende.mobilislem,Business,/store/apps/category/BUSINESS
+com.khedmatazma.provider,Business,/store/apps/category/BUSINESS
+com.enphaseenergy.myenlighten,Business,/store/apps/category/BUSINESS
+com.dewa.application,Business,/store/apps/category/BUSINESS
+com.fewa.eService,Business,/store/apps/category/BUSINESS
+com.automateddecision.decom.fp,Business,/store/apps/category/BUSINESS
+com.ewavemobile.electriccompany,Business,/store/apps/category/BUSINESS
+com.locon.housing,Business,/store/apps/category/BUSINESS
+bsphcl.suvidha.org,Business,/store/apps/category/BUSINESS
+com.iwindoor,Business,/store/apps/category/BUSINESS
+com.hilti.mobile.hiltionline,Business,/store/apps/category/BUSINESS
+com.unitedutilities.consumer.app,Business,/store/apps/category/BUSINESS
+com.kelectric.customerapp,Business,/store/apps/category/BUSINESS
+com.armut.armuthv,Business,/store/apps/category/BUSINESS
+com.imdb.mobile,Entertainment,/store/apps/category/ENTERTAINMENT
+com.ghanaweb.radio,Entertainment,/store/apps/category/ENTERTAINMENT
+com.donga.idolpick,Entertainment,/store/apps/category/ENTERTAINMENT
+com.ddnational.livetv,Entertainment,/store/apps/category/ENTERTAINMENT
+inc.rowem.passicon,Entertainment,/store/apps/category/ENTERTAINMENT
+com.gmanmi.entertainment.mobile,Entertainment,/store/apps/category/ENTERTAINMENT
+com.hanteo.whosfan,Entertainment,/store/apps/category/ENTERTAINMENT
+com.app.mizzima,Entertainment,/store/apps/category/ENTERTAINMENT
+com.idol_chart.android,Entertainment,/store/apps/category/ENTERTAINMENT
+air.vjsol.macheV.live,Entertainment,/store/apps/category/ENTERTAINMENT
+ru.yazasoft.rateestate,House & Home,/store/apps/category/HOUSE_AND_HOME
+ru.vkusvill.express,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+nu.sushibar,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+shop.foodly.mobile,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+kz.arbuz.arbuzkz,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+com.noon.nownow,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+in.zelish.android,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+com.rndelikateska,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+com.bottles,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+com.stedor.instashop,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+is.reon.kronan_webstore,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+com.saenongline.saenong,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+ro.delhaize,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+co.tapcart.app.id_zRYU2CJkcD,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+xjcl.mundraub,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+com.thehyundai.tohome,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+ly.tabe.app,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+com.bites.client.prod,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+com.wabi.customer,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+com.egets.drivers,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+com.jexmovers.food_delivery_app,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+com.farmizen.farmizen,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+today.sendme,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+com.amipass.app,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+com.savvyapp.app,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+com.emeals,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+com.mrmilkman.akshayakalpa,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+com.fingertips.user,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+com.metromart.metromart,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+com.steljoy.smartfridge,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+com.wishop.dev.jow,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+com.freshfoodventures.crisp,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+com.bupos,Business,/store/apps/category/BUSINESS
+com.ennergiiaactive,Business,/store/apps/category/BUSINESS
+jp.co.pepabo.colorme.app,Business,/store/apps/category/BUSINESS
+net.aramex.sas,Business,/store/apps/category/BUSINESS
+instant.transfer.mobile,Business,/store/apps/category/BUSINESS
+com.hktdc.appgazine,Business,/store/apps/category/BUSINESS
+com.winds.karyakarta,Business,/store/apps/category/BUSINESS
+com.amazon.sellermobile.android,Business,/store/apps/category/BUSINESS
+com.shopify.mobile,Business,/store/apps/category/BUSINESS
+com.iaai.android,Business,/store/apps/category/BUSINESS
+com.olistshops,Business,/store/apps/category/BUSINESS
+com.etsy.android.soe,Business,/store/apps/category/BUSINESS
+com.hungama.movies,Entertainment,/store/apps/category/ENTERTAINMENT
+com.vgtrk.russiatv1,Entertainment,/store/apps/category/ENTERTAINMENT
+uz.allplay.app,Entertainment,/store/apps/category/ENTERTAINMENT
+it.rainet.androidtv,Entertainment,/store/apps/category/ENTERTAINMENT
+br.com.ebc.play,Entertainment,/store/apps/category/ENTERTAINMENT
+net.nextepisode.android,Entertainment,/store/apps/category/ENTERTAINMENT
+molokov.TVGuide,Entertainment,/store/apps/category/ENTERTAINMENT
+com.wesleyellis.nextepisode,Entertainment,/store/apps/category/ENTERTAINMENT
+com.battlelancer.seriesguide,Entertainment,/store/apps/category/ENTERTAINMENT
+com.hobi.android,Entertainment,/store/apps/category/ENTERTAINMENT
+pt.rtp.play,Entertainment,/store/apps/category/ENTERTAINMENT
+com.globo.gshow.app,Entertainment,/store/apps/category/ENTERTAINMENT
+com.telerama.fr,Entertainment,/store/apps/category/ENTERTAINMENT
+com.icandesignapp.kitchen,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.arqxpress,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.zipdoc.zipdoc,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.inter_ikea.place,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.roomsketcher.homedesigner,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.star5studio.jaxonTownDesigner.HomeHouseDesign,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.embarcadero.Kupe,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.qanvast.Qanvast,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.benjaminmoore.colorportfolio,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.home.design.interior.house.mansion.my,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.palettecad.palettehome,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.home.design.interior.house.mansion.myhome,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.colorsnap,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.prestigepaints.prestigecolorpic,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.houseapp.interior,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.osquare.mydearnest,House & Home,/store/apps/category/HOUSE_AND_HOME
+net.searchome.designer,House & Home,/store/apps/category/HOUSE_AND_HOME
+pl.homebook,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.penpower.asteroom,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.addcn.android.design591,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.planner5d.swedishhomedesign,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.reacttive.interiordesign,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.wFofochat_10108664,Dating,/store/apps/category/DATING
+com.tryten.livevideocallgirls,Dating,/store/apps/category/DATING
+com.chatroulette.girls11,Dating,/store/apps/category/DATING
+com.chaaattt.banaat,Dating,/store/apps/category/DATING
+com.amor.randomchat,Dating,/store/apps/category/DATING
+com.irctc.fot,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+ru.utkonos.android.utkonoid,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+com.prepear.android,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+xyz.starship.deliveries,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+coffee.fore2.fore,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+com.plantoeat.mobile,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+supichka.mobile,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+com.el_grocer.shopper,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+rs.delhaize,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+com.harristeeter.htmobile,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+fr.icuisto.icuisto,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+com.amazon.ihm.richard,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+com.tpirates.tpiratesapp,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+com.happyfresh.android,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+com.mg.listazakupy,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+it.supermercato24.supermercato24,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+com.EOLstocks,Business,/store/apps/category/BUSINESS
+com.remitano.remitano,Business,/store/apps/category/BUSINESS
+money.whish.android,Business,/store/apps/category/BUSINESS
+com.microsoft.dynamics.ProjectMadeira,Business,/store/apps/category/BUSINESS
+id.paper.invoicer,Business,/store/apps/category/BUSINESS
+com.vegantaram.android.invoice_free,Business,/store/apps/category/BUSINESS
+ru.tii.lkcomu,Business,/store/apps/category/BUSINESS
+com.moontechnolabs.miandroid,Business,/store/apps/category/BUSINESS
+com.waveapps.sales,Business,/store/apps/category/BUSINESS
+com.kubi.kucoin,Business,/store/apps/category/BUSINESS
+za.co.yoco,Business,/store/apps/category/BUSINESS
+com.achrayashri.payism,Business,/store/apps/category/BUSINESS
+com.freshbooks.andromeda,Business,/store/apps/category/BUSINESS
+com.e1c.SmallBusiness,Business,/store/apps/category/BUSINESS
+com.murisi.murisimobile,Business,/store/apps/category/BUSINESS
+ru.evotor.dashboard,Business,/store/apps/category/BUSINESS
+com.esharesinc.android,Business,/store/apps/category/BUSINESS
+com.temantrader.tetraxchange,Business,/store/apps/category/BUSINESS
+ru.tinkoff.sme,Business,/store/apps/category/BUSINESS
+com.fiskl,Business,/store/apps/category/BUSINESS
+ru.valle.btc,Business,/store/apps/category/BUSINESS
+com.freeagent.mobile,Business,/store/apps/category/BUSINESS
+com.mobiledynamics.expensein,Business,/store/apps/category/BUSINESS
+com.qdev.ezbooks,Business,/store/apps/category/BUSINESS
+com.mobilebizco.atworkseries.invoice,Business,/store/apps/category/BUSINESS
+com.kicc.easyshop.autobooks,Business,/store/apps/category/BUSINESS
+com.invoiceasap.nativeapp,Business,/store/apps/category/BUSINESS
+com.octopuscards.oepay.mportal,Business,/store/apps/category/BUSINESS
+com.jonathanantoine.TVST,Entertainment,/store/apps/category/ENTERTAINMENT
+com.nilecon.workpointtv,Entertainment,/store/apps/category/ENTERTAINMENT
+com.gmm.onehd,Entertainment,/store/apps/category/ENTERTAINMENT
+oneplusone.video,Entertainment,/store/apps/category/ENTERTAINMENT
+com.movieapp.tvshows.freemovies,Entertainment,/store/apps/category/ENTERTAINMENT
+fi.almamedia.telkkucom,Entertainment,/store/apps/category/ENTERTAINMENT
+com.daserste.daserste,Entertainment,/store/apps/category/ENTERTAINMENT
+cz.newslab.telemagazyn,Entertainment,/store/apps/category/ENTERTAINMENT
+hu.sanomamedia.tv24,Entertainment,/store/apps/category/ENTERTAINMENT
+de.tvtoday,Entertainment,/store/apps/category/ENTERTAINMENT
+net.thaicom.app.tcapp,Entertainment,/store/apps/category/ENTERTAINMENT
+com.bongo.bioscope,Entertainment,/store/apps/category/ENTERTAINMENT
+com.tvnu.app,Entertainment,/store/apps/category/ENTERTAINMENT
+de.tvspielfilm,Entertainment,/store/apps/category/ENTERTAINMENT
+com.jappit.android.guidatvfree,Entertainment,/store/apps/category/ENTERTAINMENT
+com.ldf.tele7.view,Entertainment,/store/apps/category/ENTERTAINMENT
+com.joshfire.android.melody,Entertainment,/store/apps/category/ENTERTAINMENT
+com.cawice.android,House & Home,/store/apps/category/HOUSE_AND_HOME
+gongverlag.dekoideen,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.remax.remaxmobile,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.jotun.colourdesign,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.fixeads.imovirtual,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.housesigma.android,House & Home,/store/apps/category/HOUSE_AND_HOME
+chat.arabi.wts2020,Dating,/store/apps/category/DATING
+com.taarofbanat.banat2020,Dating,/store/apps/category/DATING
+com.wa82bj.face_insta,Dating,/store/apps/category/DATING
+online.girlschatbigovideocall,Dating,/store/apps/category/DATING
+com.misshug.chaier,Dating,/store/apps/category/DATING
+uaround.gay,Dating,/store/apps/category/DATING
+com.muhabbet.telefondasohbetodasi,Dating,/store/apps/category/DATING
+de.rewe.app.mobile,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+com.exa.nanamarket,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+com.jamhub.barbeque,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+de.lieferheld.android,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+com.wongnai.android,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+net.jahez,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+com.tenbis.tbapp,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+com.deliveroo.orderapp,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+com.ticno.olymptrade,Business,/store/apps/category/BUSINESS
+org.owline.kasirpintar,Business,/store/apps/category/BUSINESS
+com.thebusinessoft.vbuspro,Business,/store/apps/category/BUSINESS
+rw.ktrn.user,Business,/store/apps/category/BUSINESS
+com.ncb.com,Business,/store/apps/category/BUSINESS
+com.bdc.bill,Business,/store/apps/category/BUSINESS
+com.ionicframework.csg388016,Business,/store/apps/category/BUSINESS
+id.co.aviana.arsylamobile2,Business,/store/apps/category/BUSINESS
+com.momobills.billsapp,Business,/store/apps/category/BUSINESS
+com.cloudshop,Business,/store/apps/category/BUSINESS
+com.xero.touch,Business,/store/apps/category/BUSINESS
+com.tronwallet2,Business,/store/apps/category/BUSINESS
+com.smaatco.vatandroid,Business,/store/apps/category/BUSINESS
+com.mckinsey.mckinseyinsights,Business,/store/apps/category/BUSINESS
+com.temanbisnisapp.temanbisnis,Business,/store/apps/category/BUSINESS
+gov.gib.GibTvdMobil.temassizmobil,Business,/store/apps/category/BUSINESS
+com.Gthpro.kdvhesapla,Business,/store/apps/category/BUSINESS
+com.mycashbook,Business,/store/apps/category/BUSINESS
+com.Zeiterfassung,Business,/store/apps/category/BUSINESS
+st.forextradersignals,Business,/store/apps/category/BUSINESS
+sdb.gov.sa.app,Business,/store/apps/category/BUSINESS
+com.selfcare.safaricom,Business,/store/apps/category/BUSINESS
+com.multiaccess.chipsakti,Business,/store/apps/category/BUSINESS
+com.iledger.book,Business,/store/apps/category/BUSINESS
+co.mywallet.mywallet,Business,/store/apps/category/BUSINESS
+com.intuit.quickbooks,Business,/store/apps/category/BUSINESS
+in.android.vcredit,Business,/store/apps/category/BUSINESS
+it.ideasolutions.sgtv,Entertainment,/store/apps/category/ENTERTAINMENT
+com.valvesoftware.steamlink,Entertainment,/store/apps/category/ENTERTAINMENT
+com.tozelabs.tvshowtime,Entertainment,/store/apps/category/ENTERTAINMENT
+com.playstation.mobile2ndscreen,Entertainment,/store/apps/category/ENTERTAINMENT
+com.kiddoware.kidsplace,Entertainment,/store/apps/category/ENTERTAINMENT
+com.hsv.privatebrowser,Entertainment,/store/apps/category/ENTERTAINMENT
+inc.gem.dunfaoff,Entertainment,/store/apps/category/ENTERTAINMENT
+com.playstation.remoteplay,Entertainment,/store/apps/category/ENTERTAINMENT
+br.com.escolhatecnologia.vozdonarrador,Entertainment,/store/apps/category/ENTERTAINMENT
+de.twokit.video.tv.cast.browser.roku,Entertainment,/store/apps/category/ENTERTAINMENT
+com.logitech.harmonyhub,Entertainment,/store/apps/category/ENTERTAINMENT
+ru.domofond.app,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.ecobee.athenamobile,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.icandesignapp.all,House & Home,/store/apps/category/HOUSE_AND_HOME
+ru.n1,House & Home,/store/apps/category/HOUSE_AND_HOME
+ru.rt.smarthome,House & Home,/store/apps/category/HOUSE_AND_HOME
+com.avenue.randomvideocallchatguide,Dating,/store/apps/category/DATING
+us.Extr4Free.VirtualGirlfriend,Dating,/store/apps/category/DATING
+com.indian.vigo.video.pro.app,Dating,/store/apps/category/DATING
+indian.girls.live.videochat,Dating,/store/apps/category/DATING
+com.keyheart,Dating,/store/apps/category/DATING
+chats.ghalati.app978023,Dating,/store/apps/category/DATING
+us.NewLife.BodyScanner,Dating,/store/apps/category/DATING
+com.web.starqmar,Dating,/store/apps/category/DATING
+us.Starky.SexyScanner,Dating,/store/apps/category/DATING
+com.doocan.yarjob,Dating,/store/apps/category/DATING
+com.tkmog.pikappme,Dating,/store/apps/category/DATING
+com.ninbuzi_chat.app772629,Dating,/store/apps/category/DATING
+com.Programmingbiters.CasablancaDreams,Dating,/store/apps/category/DATING
+com.fileshare.sharingfiles,Dating,/store/apps/category/DATING
+com.dates.loveyear,Dating,/store/apps/category/DATING
+com.databites.videocallchatguide,Dating,/store/apps/category/DATING
+com.tvbs.news.food.topnews.bestfood.restaurant.news.supertaste.news.ratings.news,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+com.cts.kfcthailand,Food & Drink,/store/apps/category/FOOD_AND_DRINK
+au.com.speedinvoice.android,Business,/store/apps/category/BUSINESS
+sebastien.bouneb.calculer_tva_france,Business,/store/apps/category/BUSINESS
+network.kalock.myanmar2d,Business,/store/apps/category/BUSINESS
+boss.sales.accounting.crm.business.trade.debit.invoice.profit_1c,Business,/store/apps/category/BUSINESS
+com.aadhk.woinvoice,Business,/store/apps/category/BUSINESS
+com.unlitechsolutions.upsmobileapp,Business,/store/apps/category/BUSINESS
+ca.tangerine.clients.banking.app,Business,/store/apps/category/BUSINESS
+com.ejada.secapp,Business,/store/apps/category/BUSINESS
+br.gov.fazenda.receita.mei,Business,/store/apps/category/BUSINESS
+com.squareup,Business,/store/apps/category/BUSINESS
+creditdebit.creditdebit,Business,/store/apps/category/BUSINESS
+in.wbsedcl.sahayogi,Business,/store/apps/category/BUSINESS
+com.navahang.app,Entertainment,/store/apps/category/ENTERTAINMENT
+ookbee.beeber.live,Entertainment,/store/apps/category/ENTERTAINMENT
