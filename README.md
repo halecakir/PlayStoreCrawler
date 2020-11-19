@@ -2,7 +2,7 @@
 
 Yet another Scrapy and Selenium based Google Play store crawler.
 
-# New Features!
+# Features!
   - List featured apps by category.
   - Crawl similar apps.
   - Add more app info e.g. sizes, installs, permission.
